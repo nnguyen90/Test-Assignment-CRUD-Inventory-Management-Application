@@ -9,6 +9,7 @@ You have been tasked to build a CRUD (Create, Read, Update, Delete) Inventory Ma
   1. Create a new Next.js project with TypeScript.
   2. Implement a MongoDB database to store inventory items.
   3. Create the following pages and functionalities:
+
      ◦ Home page: Display a list of all inventory items with basic details (e.g., name, quantity, description).
      
      ◦ Add item page: Allow users to add new inventory items with name, quantity, and description.
@@ -36,6 +37,8 @@ You have been tasked to build a CRUD (Create, Read, Update, Delete) Inventory Ma
   2. Allow only authenticated users to access the inventory management functionalities.
     
 **Evaluation: Your assignment will be evaluated based on the following criteria:**
+
+  • Git Commits are meaningful, and the commit history demonstrates your development process.
     
   • Correctness and functionality of the CRUD inventory management application.
   
